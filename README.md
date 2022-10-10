@@ -1,5 +1,5 @@
 # currysweats
-A playground
+A playground my dude
 
 ## Build Setup
 
